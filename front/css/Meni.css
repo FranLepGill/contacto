@@ -1,0 +1,13 @@
+body{
+    display: flex;
+    justify-content: center; /* Centrar horizontalmente */
+    align-items: center; /* Centrar verticalmente */
+    height: 100vh; /* Asegurar que ocupe toda la altura de la ventana */
+}
+
+.menu{
+    border: 2px solid #000; /* 2px de ancho, sólido y color negro (#000) */
+    padding: 20px; /* Espacio interno dentro del div */
+    width: 300px; /* Ancho del div */
+    height: 300px; /* Altura del div */
+}
