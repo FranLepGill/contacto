@@ -1,1 +1,3 @@
 # contacto
+
+Contact is a project to develop a multiplayer word web game, in progress...
